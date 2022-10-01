@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
                   height: 20,
                 ),
                 Text(
-                  'Wildan Carly',
+                  'Samantha Carly',
                   style: TextStyle(fontSize: 20, color: whiteColor),
                 ),
                 SizedBox(
